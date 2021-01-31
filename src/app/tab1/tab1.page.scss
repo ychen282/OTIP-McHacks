@@ -1,26 +1,29 @@
+
+
 .about{
     background-color:#D4F7FF;
-    .title{
-        text-align: left;
-    }
+    text-align: left;
+    
 }
 .tips{
     background-color:#D4E2FF;
-    .title{
-        text-align: left;
-    }
+    text-align: left;
 }
 .news{
     background-color:#FFD4E2;
-    .title{
-        text-align: left;
-    }
-}
-.title{
     text-align: left;
+    
 }
-.content{
-    text-align: left;
+// .title{
+//     text-align: left;
+// }
+// .content{
+//     text-align: left;
+// }
+h2{
+    text-decoration: underline;
+    padding-left: 5%;
+  
 }
 a{
      text-decoration: none; 
