@@ -20,6 +20,10 @@ const routes: Routes = [
         loadChildren: () => import('../tab3/tab3.module').then(m => m.Tab3PageModule)
       },
       {
+        path: 'quiz1',
+        loadChildren: () => import('../quiz1/quiz1.module').then(m => m.Quiz1PageModule)
+      },
+      {
         path: 'tips',
         loadChildren: () => import('../tips/tips.module').then(m => m.TipsPageModule)
       },
