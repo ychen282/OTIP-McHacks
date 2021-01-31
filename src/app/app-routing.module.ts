@@ -7,10 +7,15 @@ const routes: Routes = [
     loadChildren: () => import('./tabs/tabs.module').then(m => m.TabsPageModule)
   },
 
-  // {
-  //   path: 'quiz1',
-  //   loadChildren: () => import('./quiz1/quiz1.module').then( m => m.Quiz1PageModule)
-  // }
+  {
+    path: 'quiz1',
+    loadChildren: () => import('./quiz1/quiz1.module').then( m => m.Quiz1PageModule)
+  },
+  {
+    path: 'about',
+    loadChildren: () => import('./about/about.module').then( m => m.AboutPageModule)
+  }
+
 ];
 @NgModule({
   imports: [
