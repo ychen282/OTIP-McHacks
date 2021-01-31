@@ -1,16 +1,50 @@
+
+
 *{
-  //background-color: floralwhite;
-  color: black;
-}
+  .title{
+    text-align: center;
+    margin-top: -10px;
+  }
 
-.title{
-  text-align: center;
+  .card{
+    //background-color: lightpink;
+    width: 145px;
+    height: 150px;
+    position: relative;
+    bottom:1%;
+  }
+  .background{
+    background-color: #FDE8E5;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0
+  }
+  .text{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 55px;
+    padding-left: 45px;
+  }
+  .text0{
+    margin-top: -58px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Times New Roman";
+  }
+  .text1{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Times New Roman";
+  }
+  .text2{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Times New Roman";
+  }
 }
-.card{
-  //background-color: lightpink;
-  width: 90%;
-  height: 15%;
-  position: relative;
-  bottom:1%;
-}
-
