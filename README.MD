@@ -1,8 +1,12 @@
 # OTIP
 
 ## About The Project
-OTIP stands for Ode To In Peace which is a mobile APP desinged to provide reseach information of mental health and also serve useful method and games to relieve anxiety and depression.
+OTIP stands for Ode To Inner Peace which is a mobile APP designed to provide professional mental health knowledge, offer a variety of useful responsive methods, as well as access to soothing music. 
 
+### Motivation
+Mental disorders have gradually become a global concern. It is indeed an important aspect of body health which constantly gets neglected. Our app OTIP is aiming at raising the public awareness of mental health by visualizing simplified research results, and to aid users to relive their anxiety and depression by a combination of treatment suggestions and relaxing music.  
+### Preview
+<img src=""/>
 ### Built With
 
 
@@ -37,7 +41,6 @@ OTIP stands for Ode To In Peace which is a mobile APP desinged to provide reseac
    ionic serve
    ```
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
