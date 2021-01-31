@@ -24,6 +24,10 @@ const routes: Routes = [
         loadChildren: () => import('../quiz1/quiz1.module').then(m => m.Quiz1PageModule)
       },
       {
+        path: 'tips',
+        loadChildren: () => import('../tips/tips.module').then(m => m.TipsPageModule)
+      },
+      {
         path: '',
         redirectTo: '/tabs/tab1',
         pathMatch: 'full'
