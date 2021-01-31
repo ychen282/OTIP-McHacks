@@ -6,8 +6,8 @@ OTIP stands for Ode To Inner Peace which is a mobile APP designed to provide pro
 ### Motivation
 Mental disorders have gradually become a global concern. It is indeed an important aspect of body health which constantly gets neglected. Our app OTIP is aiming at raising the public awareness of mental health by visualizing simplified research results, and to aid users to relive their anxiety and depression by a combination of treatment suggestions and relaxing music.  
 ### Preview
-![alt text](./pages/pages1.png)
-<img src="./pages/pages1.png"/>
+![alt text](https://github.com/Yuxue-Zhu/OTIP-McHacks/blob/master/pages/page1.png)
+<img src="https://github.com/Yuxue-Zhu/OTIP-McHacks/blob/master/pages/page1.png"/>
 <img src="./pages/pages2.png"/>
 <img src="./pages/pages4.png"/>
 <img src="./pages/pages5.png"/>
