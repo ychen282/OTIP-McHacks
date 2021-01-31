@@ -3,7 +3,12 @@
 .about{
     background-color:#D4F7FF;
     text-align: left;
-    
+}
+.section_title{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
 }
 .tips{
     background-color:#D4E2FF;
